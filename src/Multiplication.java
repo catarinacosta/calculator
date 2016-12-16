@@ -10,6 +10,6 @@
  */
 public class Multiplication {
     public void method1(){
-        String a;
+        String e;
     }
 }
