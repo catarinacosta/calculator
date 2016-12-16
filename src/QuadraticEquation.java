@@ -10,6 +10,6 @@
  */
 public class QuadraticEquation {
     public void method1(){
-        String b;
+        String c;
     }
 }
