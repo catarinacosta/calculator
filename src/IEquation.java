@@ -10,6 +10,6 @@
  */
 public class IEquation {
     public void method1(){
-        String e;
+        String a;
     }
 }
