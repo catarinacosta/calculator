@@ -10,6 +10,6 @@
  */
 public class Substraction {
     public void method1(){
-        String b;
+        String a;
     }
 }
