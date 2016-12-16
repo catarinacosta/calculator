@@ -9,5 +9,7 @@
  * @author Catarina
  */
 public class Substraction {
-    
+    public void method1(){
+        
+    }
 }
