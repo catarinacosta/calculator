@@ -9,5 +9,7 @@
  * @author Catarina
  */
 public class IEquation {
-    
+    public void method1(){
+        String a;
+    }
 }
