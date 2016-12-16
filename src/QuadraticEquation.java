@@ -9,5 +9,7 @@
  * @author Catarina
  */
 public class QuadraticEquation {
-    
+    public void method1(){
+        
+    }
 }
